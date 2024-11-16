@@ -1,7 +1,4 @@
-/Data
-/Data/*
-/notebooks/.ipynb_checkpoints
-/notebooks/.ipynb_checkpoints/*
-/.idea
-/.idea/*
+/Data/
+/notebooks/.ipynb_checkpoints/
+/.idea/
 
