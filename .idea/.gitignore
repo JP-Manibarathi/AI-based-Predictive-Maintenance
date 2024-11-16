@@ -3,3 +3,6 @@
 /workspace.xml
 /.idea
 /Data
+/Data/
+/notebooks/.ipynb_checkpoints/
+/scripts/.ipynb_checkpoints/
