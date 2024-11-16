@@ -1,8 +1,5 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-/.idea
-/Data
-/notebooks/.ipynb_checkpoints
-/notebooks/.ipynb_checkpoints/*
-/scripts/__pycache__
+idea/
+notebooks/.ipynb_checkpoints/
+scripts/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+**/__pycache__/
